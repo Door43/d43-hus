@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hus:home|Door43 (hus)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hus|d43-hus repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hus/archive/master.zip|d43-hus.zip]]
+
+**Recent Changes**
+{{changes>ns = hus}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hus|Ethnologue data]]
+
